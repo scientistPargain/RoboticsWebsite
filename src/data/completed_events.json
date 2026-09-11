@@ -1,5 +1,55 @@
 [
   {
+    "id": 1,
+    "title": "Bare Bone Bots 2026",
+    "date": "",
+    "time": "Yet to be announced",
+    "location": "NCT WAITING AREA",
+    "description": "A minimalistic bot-making competition where your creativity matters more than expensive hardware!",
+    "longDescription": "Bare Bone Bots 2026 is a unique minimalistic robotics competition organized by The Robotics Club Pantnagar where innovation, creativity, and engineering fundamentals take center stage. Participants are challenged to design and build a functional bot using the minimum possible electronic components without using any microcontroller. The objective is to create something meaningful, efficient, and creative that can perform a simple task such as crawling, walking, or movement-based actions. This event celebrates pure engineering creativity by proving that impactful ideas do not always require complex hardware or expensive technology. Using the same set of basic components, participants must demonstrate smart engineering, innovative thinking, and practical problem-solving skills.",
+    "category": "Competition",
+    "participants": "100+ Teams",
+    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473159/bare_bone_bots_wfavuw.webp",
+    "gradient": "from-accent to-tech-purple",
+    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdU-EN32Q_GzGa4hqf2yDpEBzemzWQqg_YvvI5I1dH7mEyg-w/viewform",
+    "rules": [
+      "No microcontroller is allowed in the bot design.",
+      "The bot must perform a simple task such as crawling, walking, moving, or similar mechanical actions.",
+      "Bots will be judged on creativity and innovation.",
+      "Minimum number of components should be used.",
+      "Teams must build the bot using basic electronic and mechanical components only.",
+      "Any unfair practices or rule violations may lead to disqualification.",
+      "The decision of the organizing committee will be final."
+    ],
+    "status": "Completed"
+  },
+  {
+    "id": 7,
+    "title": "Laser Tag 2026",
+    "date": "2026-05-18",
+    "time": "Yet to be announced",
+    "location": "NCT WAITING AREA",
+    "description": "A high-intensity laser tag showdown where strategy, reflexes, and precision decide the ultimate champion!",
+    "category": "Competition",
+    "participants": "20+ Participants",
+    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473158/laser_tag_xcaqrb.webp",
+    "gradient": "from-accent to-tech-purple",
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "title": "TrailBlazer 2026",
+    "date": "2026-05-18",
+    "time": "Yet to be announced",
+    "location": "NCT WAITING AREA",
+    "description": "A fast-paced line-following bot competition where precision, speed, and smart design lead the way to victory!",
+    "category": "Competition",
+    "participants": "10+ Teams",
+    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473159/trail_blazer_qk2wi8.webp",
+    "gradient": "from-accent to-tech-purple",
+    "status": "Completed"
+  },
+  {
     "id": 5,
     "title": "Inbotics 2025",
     "date": "2025-11-25",

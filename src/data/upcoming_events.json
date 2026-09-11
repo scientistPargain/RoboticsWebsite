@@ -1,41 +1,38 @@
 [
   {
-    "id": 2,
-    "title": "Laser Tag 2026",
-    "date": "Coming Soon",
-    "time": "Yet to be announced",
-    "location": "NCT Waiting Hall",
-    "description": "A high-intensity laser tag showdown where strategy, reflexes, and precision decide the ultimate champion!",
-    "category": "Competition",
-    "participants": "100+ Teams",
-    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473158/laser_tag_xcaqrb.webp",
-    "gradient": "from-accent to-tech-purple",
-    "registrationLink": "https://forms.gle/Mfp2ntQNwzprT5V57"
-  },
-  {
-    "id": 3,
-    "title": "TrailBlazer 2026",
-    "date": "Coming Soon",
-    "time": "Yet to be announced",
-    "location": "NCT 205B, B200AB",
-    "description": "A fast-paced line-following bot competition where precision, speed, and smart design lead the way to victory!",
-    "category": "Competition",
-    "participants": "100+ Teams",
-    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473159/trail_blazer_qk2wi8.webp",
-    "gradient": "from-accent to-tech-purple",
-    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSd_B6KQJKR_O1HkYLZbbD7LXRPkV3ENeX-g8LTNzxvWh1CoVA/viewform"
-  },
-  {
     "id": 1,
-    "title": "Bare Bone Bots 2026",
-    "date": "Coming Soon",
-    "time": "Yet to be announced",
-    "location": "NCT 205B, B200AB",
-    "description": "A minimalistic bot-making competition where your creativity matters more than expensive hardware!",
-    "category": "Competition",
-    "participants": "100+ Teams",
-    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1778473159/bare_bone_bots_wfavuw.webp",
+    "title": "Inductions for Sophomores",
+    "date": "2026-09-14",
+    "endDate": "2026-09-16",
+    "time": "03:00 PM - 05:00 PM",
+    "location": "201B & 200AB, NCT",
+    "description": "An induction event for sophomores seeking selection into The Robotics Club Pantnagar and an opportunity to learn about the club's robotics activities.",
+    "longDescription": "Inductions for Sophomores is the selection event for students who want to join The Robotics Club Pantnagar. It introduces candidates to the club's vision, members, technical projects, events, and opportunities to contribute to its robotics activities.",
+    "category": "Induction",
+    "participants": "Sophomores",
+    "image": "https://res.cloudinary.com/dw7ck0xbj/image/upload/v1789058730/induction_2026_mt7oyi.png",
     "gradient": "from-accent to-tech-purple",
-    "registrationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdU-EN32Q_GzGa4hqf2yDpEBzemzWQqg_YvvI5I1dH7mEyg-w/viewform"
+    "registrationLink": "",
+    "resumeFormatLink": "https://drive.google.com/file/d/1LtppnJNEyMJ51ifPG5V48M4fZKkg6Up0/view?usp=sharing",
+    "contacts": [
+      {
+        "name": "Anusha Tyagi",
+        "phone": "9667204478"
+      },
+      {
+        "name": "Pranjal Gairola",
+        "phone": "9520797300"
+      }
+    ],
+    "rules": [
+      "The induction process will be conducted in two phases: an aptitude test followed by an interview.",
+      "Phase 1: The aptitude test will be conducted only on September 14, 2026, and will last approximately 30 to 45 minutes. The final duration will be announced separately.",
+      "The aptitude test is optional and is not required to participate in the interview; participants who take it may receive additional points.",
+      "Phase 2: Interviews will be conducted on September 15 and 16, 2026.",
+      "All participants may attend the interview, regardless of whether they took the aptitude test.",
+      "During the interview, a panel of judges will ask questions based on the candidate's resume and award points according to the quality of their answers.",
+      "Participants are expected to arrive on time for their scheduled session.",
+      "Please bring an up-to-date resume for the induction process."
+    ]
   }
 ]
